@@ -1,0 +1,8 @@
+azure-iot-device
+azure-cosmos
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+python-dotenv
